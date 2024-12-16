@@ -26,10 +26,7 @@ This is a **Notepad** project developed in Java using **Swing**. The application
 ---
 
 ## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone <REPOSITORY_URL>
-   ```
+1. Clone the repository
 2. Import the project into your favorite IDE (IntelliJ, Eclipse, NetBeans).
 3. Compile and run the main file `NotepadFrame.java`.
 
