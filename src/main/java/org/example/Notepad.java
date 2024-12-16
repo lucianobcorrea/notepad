@@ -1,5 +1,7 @@
 package org.example;
 
+import java.awt.*;
+
 public class Notepad {
 
 	public static void main(String[] args) {
